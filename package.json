@@ -1,0 +1,12 @@
+{
+  "name": "mariokart-terminal",
+  "version": "1.0.0",
+  "description": "Mario Kart Terminal Simulator - Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "play": "node index.js"
+  },
+  "keywords": ["mario", "kart", "terminal", "game", "nodejs"],
+  "license": "MIT"
+}
